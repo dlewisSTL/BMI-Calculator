@@ -47,7 +47,7 @@ The goal of this project was to build a responsive BMI calculator that allows us
 ## Links
 
 - Solution URL: [GitHub Repository](https://github.com/dlewisSTL/BMI-Calculator)
-- Live Site URL: [Live Demo](https://browser-extension-manager-eight-eta.vercel.app)
+- Live Site URL: [Live Demo](https://bmi-calculator-one-tau-56.vercel.app)
 
 ---
 
